@@ -23,5 +23,5 @@ body:
       label: Owner
       description: Is it you who added this dataset?
       options:
-        - Yes
-        - No
+        - "Yes"
+        - "No"
